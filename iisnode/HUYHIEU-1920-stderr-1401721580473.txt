@@ -1,0 +1,5 @@
+[34mdebug: [39m[90m--------------------------------------------------------[39m
+[34mdebug: [39m[90m:: Mon Jun 02 2014 22:06:40 GMT+0700 (SE Asia Standard Time)[39m
+[34mdebug: [39mEnvironment : development
+[34mdebug: [39mPort        : \\.\pipe\9c02fea5-9845-41d1-9d5a-2b907bd3969f
+[34mdebug: [39m[90m--------------------------------------------------------[39m

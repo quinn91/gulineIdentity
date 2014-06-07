@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError: Cannot convert null to object
+    at hasOwnProperty (native)
+    at exports.object.hasOwnProperty (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema\utils.js:46:14)
+    at JoinTables.parseAttribute (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema\joinTables.js:145:26)
+    at C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema\joinTables.js:80:22
+    at Array.forEach (native)
+    at JoinTables.buildJoins (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema\joinTables.js:79:24)
+    at new JoinTables (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema\joinTables.js:40:23)
+    at new module.exports (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\node_modules\waterline-schema\lib\waterline-schema.js:33:17)
+    at Waterline.initialize (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\node_modules\waterline\lib\waterline.js:106:17)
+    at Hook.startORM (C:\Users\ClickCare\AppData\Roaming\npm\node_modules\sails\lib\hooks\orm\index.js:345:14)
